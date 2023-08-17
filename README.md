@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔧 Technologies
+## 🔧 Estudando atualmente: 
 <div style="display: inline">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
   <img width="50" height="50" hspace="10" src="https://github.com/AdryanMaikel/AdryanMaikel/assets/118983199/32018263-24ee-4ea8-93a8-ae0fca554d52"/>
