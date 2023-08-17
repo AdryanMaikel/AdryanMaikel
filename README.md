@@ -1,8 +1,8 @@
-### Hi there 👋
+<img src="https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=22&duration=4000&pause=1000&color=B81808&width=435&lines=Ol%C3%A1+Meu+nome+%C3%A9+Adryan+Maikel!" alt="Typing SVG" />
+<!--   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=22&duration=4000&pause=1000&color=B81808&center=true&width=435&lines=Ol%C3%A1+Meu+nome+%C3%A9+Adryan+Maikel!)](https://git.io/typing-svg) -->
 
 <!--
 **AdryanMaikel/AdryanMaikel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🔧 Technologies
+<div style="display: inline">
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
+  <img width="50" height="50" hspace="10" src="https://github.com/AdryanMaikel/AdryanMaikel/assets/118983199/32018263-24ee-4ea8-93a8-ae0fca554d52"/>
+</div>
+
