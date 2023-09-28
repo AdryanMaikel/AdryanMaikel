@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## 🔧 Estudando atualmente: 
 <div style="display: inline">
-  <a href="https://www.ruby-lang.org/pt/" target="_blank" title="Ruby">
-    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
+  <a href="#" target="_blank" title="Python">
+    <img width="50" height="50" src="https://img.icons8.com/?size=80&id=lXPUSRCongH1&format=png"/>
   </a>
   <a href="https://www.gamemaker.io/pt-BR" target="_blank" title="GameMaker Studio 2">
     <img width="50" height="50" hspace="10" src="https://github-production-user-asset-6210df.s3.amazonaws.com/118983199/261317428-32018263-24ee-4ea8-93a8-ae0fca554d52.jpeg"/>
