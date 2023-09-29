@@ -20,9 +20,9 @@ Here are some ideas to get you started:
   <a href="#" target="_blank" title="Python">
     <img width="50" height="50" hspace="5" src="https://img.icons8.com/?size=80&id=lXPUSRCongH1&format=png"/>
   </a>
-  <a href="https://www.gamemaker.io/pt-BR" target="_blank" title="GameMaker Studio 2">
+<!--   <a href="https://www.gamemaker.io/pt-BR" target="_blank" title="GameMaker Studio 2">
     <img width="50" height="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/118983199/261317428-32018263-24ee-4ea8-93a8-ae0fca554d52.jpeg"/>
-  </a>
+  </a> -->
   <a href="#" target="_blank">
     <img width="50" height="50" hspace="5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433"/>
   </a>
