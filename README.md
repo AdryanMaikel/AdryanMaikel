@@ -27,13 +27,16 @@ Here are some ideas to get you started:
 ## 📚 Conhecimento:
 
 <div style="display: inline">
-  <img title="GAMEMAKER" width="50" height="50" hspace="5"  src="https://static.macupdate.com/products/37306/m/gamemaker-studio-2-logo.webp"/>
+  <img title="GAMEMAKER" width="50" height="50" hspace="5" src="GameMaker.ico"/>
   <img title="PYTHON" width="50" height="50" hspace="5" src="https://img.icons8.com/?size=80&id=lXPUSRCongH1&format=png"/>
   <img title="RUBY" width="50" height="50" hspace="5" src="https://www.demorodavel.com/wp-content/uploads/2019/09/ruby-logo-300x263.png"/>
-  <img title="JAVASCRIPT" width="50" height="50" hspace="5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433"/>
-  <img title="HTML" width="50" height="50" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png"/>
-  <img title="CSS" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+</div>
+
+<div style="margin-top: 10">
+  <img title="JAVASCRIPT" width="50" height="50" hspace="5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433"/>
+  <img title="HTML" width="50" height="50" style="margin-left: 6" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png"/>
+  <img title="CSS" width="50" height="50" hspace="10"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817"/>
 </div>
 
 #
