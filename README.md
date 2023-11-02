@@ -1,4 +1,4 @@
-
+<!-- AdryanMaikel    <img loading="lazy" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdryanMaikel&layout=compact&langs_count=7&theme=dracula"/>-->
 
 # <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=25&duration=1100&pause=2000&color=0071C5&width=435&lines=Ol%C3%A1+Meu+nome+%C3%A9+Adryan+Maikel!" alt="Olá meu nome é Adryan Maikel"/>
 
@@ -42,6 +42,16 @@ Here are some ideas to get you started:
 </div>
 
 # 
-<a href="https://github.com/AdryanMaikel">
-  <img loading="lazy" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdryanMaikel&layout=compact&langs_count=7&theme=dracula"/>
-</a>
+
+<div>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdryanMaikel&layout=donut&theme=transparent&hide=yacc)](https://github.com/AdryanMaikel/github-readme-stats)
+  
+</div>
+
+<div>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdryanMaikel&show_icons=true&theme=transparent)
+  
+</div>
+
