@@ -3,8 +3,8 @@
 # <img  src="https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=25&duration=1100&pause=2000&color=0071C5&width=435&lines=Ol%C3%A1+Meu+nome+%C3%A9+Adryan+Maikel!" alt="Olá meu nome é Adryan Maikel"/>
 
 <picture>
-  <img style="position: relative; margin-bottom: 10px"src="https://github-readme-stats.vercel.app/api?username=AdryanMaikel&show_icons=true&theme=transparent" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdryanMaikel&layout=donut&theme=transparent&hide=yacc" alt="Top Langs">
+  <img style="position: relative; width: 400px"src="https://github-readme-stats.vercel.app/api?username=AdryanMaikel&show_icons=true&theme=transparent" alt="GitHub Stats">
+  <img style="width: 275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdryanMaikel&layout=donut&theme=transparent&hide=yacc" alt="Top Langs">
 </picture>
 
 
