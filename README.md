@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <a href=estudando style="color=#0071C5"> <img height=25 width=25 src=https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif>  Estudando atualmente: </a>
+## <a href=estudando style="color=#0071C5"> <img height=40 width=40 src=https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif/> Estudando atualmente: </a>
 
 <div id=estudando>
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 </div>
 
-##  <a href=conhecimento style="color=#0071C5"> <img height=25 width=25 src=https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif> 📚 Conhecimento: </a> 
+##  <a href=conhecimento style="color=#0071C5"> <img height=35 width=35 src=https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif/>Conhecimento: </a> 
 
 
 <div id=conhecimento>
