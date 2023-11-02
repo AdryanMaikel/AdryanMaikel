@@ -23,12 +23,13 @@ Here are some ideas to get you started:
 
 ## 📚 Conhecimento:
 
-|<img title="GAMEMAKER" width="50" height="50" src="GameMaker.ico"/>|<img title="PYTHON" width="50" height="50" src="https://img.icons8.com/?size=80&id=lXPUSRCongH1&format=png"/>|<img title="RUBY" width="50" height="50" src="https://www.demorodavel.com/wp-content/uploads/2019/09/ruby-logo-300x263.png"/>|<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>|<img title="JAVASCRIPT" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433"/>|<img title="HTML" width="50" height="50" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png"/>|<img title="CSS" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817"/>|
-|:---------:|:------:|:----:|:---:|:----------:|:----:|:---:|
-|GAMEMAKER|PYTHON|RUBY|GIT|JAVASCRIPT|HTML|CSS|
+|<img title="GAMEMAKER" width="50" height="50" src="GameMaker.ico"/>|<img title="PYTHON" width="50" height="50" src="https://img.icons8.com/?size=80&id=lXPUSRCongH1&format=png"/>|<img title="RUBY" width="50" height="50" src="https://www.demorodavel.com/wp-content/uploads/2019/09/ruby-logo-300x263.png"/>|<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>|
+|:-------:|:----:|:--:|:-:|
+|GAMEMAKER|PYTHON|RUBY|GIT|
 
-
-
+|<img title="JAVASCRIPT" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433"/>|<img title="HTML" width="50" height="50" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png"/>|<img title="CSS" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817"/>|
+|:--------:|:--:|:-:|
+|JAVASCRIPT|HTML|CSS|
 
 
 #
