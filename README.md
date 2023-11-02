@@ -5,7 +5,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdryanMaikel&show_icons=true&theme=transparent)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdryanMaikel&layout=donut&theme=transparent&hide=yacc)](https://github.com/AdryanMaikel/github-readme-stats)
 <!--
 **AdryanMaikel/AdryanMaikel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -30,14 +29,21 @@ Here are some ideas to get you started:
 
 </div>
 
+
+#
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdryanMaikel&layout=donut&theme=transparent&hide=yacc)](https://github.com/AdryanMaikel/github-readme-stats)
+
+#
+
 ##  <a href=conhecimento style="color=#0071C5"> <img height=35 width=35 src=https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif/>Conhecimento: </a> 
 
 
 <div id=conhecimento>
 
-|<img title="GAMEMAKER" width="50" height="50" src="GameMaker.ico"/>|<img title="PYTHON" width="50" height="50" src="https://img.icons8.com/?size=80&id=lXPUSRCongH1&format=png"/>|<img title="RUBY" width="50" height="50" src="https://www.demorodavel.com/wp-content/uploads/2019/09/ruby-logo-300x263.png"/>|<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>|
-|:-------:|:----:|:--:|:-:|
-|GAMEMAKER|PYTHON|RUBY|GIT|
+|<img title="RUBY" width="50" height="50" src="https://www.demorodavel.com/wp-content/uploads/2019/09/ruby-logo-300x263.png"/>|<img title="GAMEMAKER" width="50" height="50" src="GameMaker.ico"/>|<img title="PYTHON" width="50" height="50" src="https://img.icons8.com/?size=80&id=lXPUSRCongH1&format=png"/>|<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>|
+|:----:|:----:|:--:|:-:|
+|RUBY|GAMEMAKER|PYTHON|GIT|
 
 |<img title="JAVASCRIPT" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433"/>|<img title="HTML" width="50" height="50" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png"/>|<img title="CSS" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817"/>|
 |:--------:|:--:|:-:|
