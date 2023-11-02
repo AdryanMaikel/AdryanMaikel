@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 <div style="display: inline">
   <img width="50" height="50" hspace="3" src="https://img.icons8.com/?size=80&id=lXPUSRCongH1&format=png"/>
   <img width="50" height="50" hspace="0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433"/>
-  <img width="50" height="50" hspace="0" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png"/>
-  <img width="50" height="50"src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817"/>
+  <img width="50" height="50" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png"/>
+  <img width="50" height="50" hspace ="-5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817"/>
   
 </div>
+
+
