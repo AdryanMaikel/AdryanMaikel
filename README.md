@@ -2,7 +2,7 @@
 
 # <img  src="https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=25&duration=1100&pause=2000&color=0071C5&width=435&lines=Ol%C3%A1+Meu+nome+%C3%A9+Adryan+Maikel!" alt="Olá meu nome é Adryan Maikel"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdryanMaikel&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NGS-Adryan&show_icons=true&theme=transparent&locale=pt-br)
 
 
 <!--
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## <a href=estudando style="color=#0071C5"> <img height=40 width=40 src=https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif/> Estudando atualmente: </a>
+## <a href=estudando style="color=#0071C5"> <img height=40 width=40 src=https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif/>  Estudando atualmente: </a>
 
 <div id=estudando>
 
@@ -31,29 +31,3 @@ Here are some ideas to get you started:
 
 
 #
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdryanMaikel&layout=donut&theme=transparent&hide=yacc)](https://github.com/AdryanMaikel/github-readme-stats)
-
-#
-
-##  <a href=conhecimento style="color=#0071C5"> <img height=35 width=35 src=https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif/>Conhecimento: </a> 
-
-
-<div id=conhecimento>
-
-|<img title="GAMEMAKER" width="50" height="50" src="GameMaker.ico"/>|<img title="RUBY" width="50" height="50" src="https://www.demorodavel.com/wp-content/uploads/2019/09/ruby-logo-300x263.png"/>|<img title="PYTHON" width="50" height="50" src="https://img.icons8.com/?size=80&id=lXPUSRCongH1&format=png"/>|<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>|
-|:----:|:----:|:--:|:-:|
-|Gamemaker|Ruby|Python|Git|
-|<img title="JAVASCRIPT" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433"/>|<img title="HTML" width="50" height="50" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png"/>|<img title="CSS" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817"/>|
-|Javascript|Html|Css|
-
-</div>
-
-
-
-<div>
-  
-  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdryanMaikel&show_icons=true&theme=transparent) -->
-  
-</div>
-
