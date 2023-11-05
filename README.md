@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 |<img title="GAMEMAKER" width="50" height="50" src="GameMaker.ico"/>|<img title="RUBY" width="50" height="50" src="https://www.demorodavel.com/wp-content/uploads/2019/09/ruby-logo-300x263.png"/>|<img title="PYTHON" width="50" height="50" src="https://img.icons8.com/?size=80&id=lXPUSRCongH1&format=png"/>|<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>|
 |:----:|:----:|:--:|:-:|
 |Gamemaker|Ruby|Python|Git|
-|<img title="JAVASCRIPT" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433"/>|<img title="HTML" width="50" height="50" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png"/>|<img title="CSS" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817"/>|<img title="PASCAL DELPHI 11" width="50" height="50" src="https://user-images.githubusercontent.com/6978003/28999656-cb0677aa-7a1c-11e7-975d-25ed65555cc8.png"/>
+|<img title="JAVASCRIPT" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433"/>|<img title="HTML" width="50" height="50" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png"/>|<img title="CSS" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817"/>|<img title="PASCAL DELPHI 11" width="50" height="50" src="delphi_MAINICON.ico"/>
 |Javascript|Html|Css|Delphi 11|
 
 
